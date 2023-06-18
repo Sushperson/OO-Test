@@ -6,8 +6,8 @@ public class Main {
 
 	}
 	
-	static int timesOne(int n) {
-		return n / 1;
+	static int minusOne(int n) {
+		return n - 1;
 	}
 
 }
