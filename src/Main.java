@@ -7,7 +7,7 @@ public class Main {
 	}
 	
 	static int timesOne(int n) {
-		return n / 1;
+		return n * 1;
 	}
 
 }
