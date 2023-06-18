@@ -5,5 +5,9 @@ public class Main {
 		System.out.println("hallo");
 
 	}
+	
+	static int plusOne(int n) {
+		return n - 1;
+	}
 
 }
