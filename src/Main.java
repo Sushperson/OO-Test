@@ -7,7 +7,7 @@ public class Main {
 	}
 	
 	static int plusOne(int n) {
-		return n - 1;
+		return n + 1;
 	}
 
 }
