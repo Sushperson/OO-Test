@@ -6,7 +6,7 @@ public class Main {
 
 	}
 	
-	static int timesOne(int n) {
+	static int plusOne(int n) {
 		return n * 1;
 	}
 
